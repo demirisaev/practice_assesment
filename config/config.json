@@ -1,6 +1,6 @@
 {
   "development": {
-    "url": "YOUR_URL_HERE",
+    "url": "postgres://sscplauz:Ug3eHQ5wOiAUtEUZgY8RXve6w4UwkIrq@tyke.db.elephantsql.com/sscplauz",
     "dialect": "postgres"
   },
   "test": {
